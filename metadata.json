@@ -1,0 +1,6 @@
+{
+  "name": "LinkedIn Reflection Agent",
+  "description": "Chat-based reflection agent that drafts and iteratively refines high-impact LinkedIn posts via Groq LLM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
